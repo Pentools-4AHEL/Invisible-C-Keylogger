@@ -1,0 +1,7 @@
+C:\Users\Andreas\source\repos\Windows Server Wartung\Windows Server Wartung\bin\Debug\Windows Server Wartung.exe.config
+C:\Users\Andreas\source\repos\Windows Server Wartung\Windows Server Wartung\bin\Debug\Windows Server Wartung.exe
+C:\Users\Andreas\source\repos\Windows Server Wartung\Windows Server Wartung\bin\Debug\Windows Server Wartung.pdb
+C:\Users\Andreas\source\repos\Windows Server Wartung\Windows Server Wartung\obj\Debug\Windows Server Wartung.csprojAssemblyReference.cache
+C:\Users\Andreas\source\repos\Windows Server Wartung\Windows Server Wartung\obj\Debug\Windows Server Wartung.csproj.CoreCompileInputs.cache
+C:\Users\Andreas\source\repos\Windows Server Wartung\Windows Server Wartung\obj\Debug\Windows Server Wartung.exe
+C:\Users\Andreas\source\repos\Windows Server Wartung\Windows Server Wartung\obj\Debug\Windows Server Wartung.pdb
